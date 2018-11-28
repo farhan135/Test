@@ -1,2 +1,2 @@
 # Test
-Exercise git
+Exercise git commands
